@@ -36,8 +36,7 @@ This project is built using **Flutter** and **Dart**, focusing on clean design, 
 
 > Home Page (Chat List UI)
 
-<img src="assets/screenshots/home_page.png" width="300"/>
-
+<img width="1920" height="1045" alt="tapchat home ui" src="https://github.com/user-attachments/assets/ed21c5e4-ff7a-4823-8127-0b546e6a1514" />
 
 ---
 
@@ -87,13 +86,13 @@ lib/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/tapchat.git
+   git clone https://github.com/your-username/tapchat.git](https://github.com/Nadeeshana-Lahiru/TapChat.git
    ```
 
 2. Navigate to the project directory
 
    ```bash
-   cd tapchat
+   cd TapChat
    ```
 
 3. Install dependencies
